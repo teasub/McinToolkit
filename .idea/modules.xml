@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/McinToolkit.iml" filepath="$PROJECT_DIR$/McinToolkit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mosby-adapter/mosby-adapter.iml" filepath="$PROJECT_DIR$/mosby-adapter/mosby-adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mosby-utils/mosby-utils.iml" filepath="$PROJECT_DIR$/mosby-utils/mosby-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sweetalert/sweetalert.iml" filepath="$PROJECT_DIR$/sweetalert/sweetalert.iml" />
+    </modules>
+  </component>
+</project>
