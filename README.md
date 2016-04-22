@@ -2,9 +2,9 @@
 # McinToolKit
    主要收集一些工具类的，方便开发使用
 
-   *mosby-adapter:Recyclerview 通用Adapter
-   *mosby-util:一些通用的Utils
-   *sweetalert:弹出框
+*mosby-adapter:Recyclerview 通用Adapter
+*mosby-util:一些通用的Utils
+*sweetalert:弹出框
 
 
 
